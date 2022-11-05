@@ -1,4 +1,6 @@
-// Reading input by calling the getc() function
+/**
+ * Reading input by calling the getc() function 
+ */
 #include <stdio.h>
 
 int main()
